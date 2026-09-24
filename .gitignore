@@ -7,3 +7,17 @@ _blog
 .jekyll-metadata
 scripts
 www
+
+# engine
+.venv/
+reports/
+.lycheecache
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# the snapshot and the exports are checked by make check, so they are kept even
+# though *json ignores everything else
+!github-stats.json
+!exports/*.json
+!exports/*.ndjson
