@@ -1,0 +1,1401 @@
+{
+  "name": "Machine Learning With Ruby",
+  "repo_slug": "machine-learning-with-ruby",
+  "generated_at": "2026-09-24",
+  "entry_count": 134,
+  "sections": [
+    {
+      "name": ":sparkles: Tutorials",
+      "entries": [
+        {
+          "name": "Ruby neural networks",
+          "url": "https://www.honeybadger.io/blog/ruby-neural-networks/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 69
+        },
+        {
+          "name": "How to implement linear regression in Ruby",
+          "url": "https://www.practicalai.io/implementing-linear-regression-using-ruby/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 70
+        },
+        {
+          "name": "How to implement classification using logistic regression in Ruby",
+          "url": "https://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 71
+        },
+        {
+          "name": "How to implement simple binary classification using a Neural Network in Ruby",
+          "url": "https://www.practicalai.io/implementing-simple-classification-using-neural-network-in-ruby/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 72
+        },
+        {
+          "name": "How to implement classification using a SVM in Ruby",
+          "url": "https://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 73
+        },
+        {
+          "name": "Unsupervised learning using k-means clustering in Ruby",
+          "url": "https://www.practicalai.io/unsupervised-learning-using-k-means-clustering-in-ruby/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 74
+        },
+        {
+          "name": "Teaching an AI to play a simple game using Q-Learning in Ruby",
+          "url": "https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 75
+        },
+        {
+          "name": "Teaching a Neural Network to play a game using Q-Learning in Ruby",
+          "url": "https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 76
+        },
+        {
+          "name": "Using the Python scikit-learn machine learning library in Ruby using PyCall",
+          "url": "https://www.practicalai.io/using-scikit-learn-machine-learning-library-in-ruby-using-pycall/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 77
+        },
+        {
+          "name": "How to evolve neural networks in Ruby using the Machine Learning Workbench",
+          "url": "https://github.com/giuse/machine_learning_workbench/blob/master/examples/neuroevolution.rb",
+          "description": "★ 20 stars, last push 2021-11-02.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 78
+        }
+      ]
+    },
+    {
+      "name": "Machine Learning Libraries",
+      "entries": [
+        {
+          "name": "LangChain.rb",
+          "url": "https://github.com/andreibondarev/langchainrb",
+          "description": "Build ML/AI-supercharged applications with Ruby's LangChain.",
+          "tags": [],
+          "group": null,
+          "stars": 1999,
+          "last_push": "2026-09-09",
+          "line": 87
+        },
+        {
+          "name": "weka",
+          "url": "https://github.com/paulgoetze/weka-jruby",
+          "description": "JRuby bindings for Weka, different ML algorithms implemented through Weka.",
+          "tags": [],
+          "group": null,
+          "stars": 65,
+          "last_push": "2026-06-24",
+          "line": 88
+        },
+        {
+          "name": "ai4r",
+          "url": "https://github.com/SergioFierens/ai4r",
+          "description": "Artificial Intelligence for Ruby.",
+          "tags": [],
+          "group": null,
+          "stars": 722,
+          "last_push": "2025-07-18",
+          "line": 89
+        },
+        {
+          "name": "classifier-reborn",
+          "url": "https://github.com/jekyll/classifier-reborn",
+          "description": "General classifier module to allow Bayesian and other types of classifications. [dep: GLS].",
+          "tags": [],
+          "group": null,
+          "stars": 558,
+          "last_push": "2024-05-27",
+          "line": 90
+        },
+        {
+          "name": "scoruby",
+          "url": "https://github.com/asafschers/scoruby",
+          "description": "Ruby scoring API for PMML (Predictive Model Markup Language).",
+          "tags": [],
+          "group": null,
+          "stars": 70,
+          "last_push": "2022-10-19",
+          "line": 91
+        },
+        {
+          "name": "rblearn",
+          "url": "https://github.com/himkt/rblearn",
+          "description": "Feature Extraction and Crossvalidation library.",
+          "tags": [],
+          "group": null,
+          "stars": 2,
+          "last_push": "2016-08-03",
+          "line": 92
+        },
+        {
+          "name": "data_modeler",
+          "url": "https://github.com/giuse/data_modeler",
+          "description": "Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": "2017-06-28",
+          "line": 93
+        },
+        {
+          "name": "shogun",
+          "url": "https://github.com/shogun-toolbox/shogun",
+          "description": "Polyfunctional and mature machine learning toolbox with Ruby bindings.",
+          "tags": [],
+          "group": null,
+          "stars": 3081,
+          "last_push": "2023-12-19",
+          "line": 94
+        },
+        {
+          "name": "aws-sdk-machinelearning",
+          "url": "https://github.com/aws/aws-sdk-ruby",
+          "description": "Machine Learning API of the Amazon Web Services.",
+          "tags": [],
+          "group": null,
+          "stars": 3657,
+          "last_push": "2026-09-24",
+          "line": 95
+        },
+        {
+          "name": "azure_mgmt_machine_learning",
+          "url": "https://github.com/Azure/azure-sdk-for-ruby",
+          "description": "Machine Learning API of the Microsoft Azure.",
+          "tags": [],
+          "group": null,
+          "stars": 279,
+          "last_push": null,
+          "line": 96
+        },
+        {
+          "name": "machine_learning_workbench",
+          "url": "https://github.com/giuse/machine_learning_workbench",
+          "description": "Growing machine learning framework written in pure Ruby, high performance computing using Numo, CUDA bindings through Cumo. Currently implementating neural networks, evolutionary strategies, vector quantization, and plenty of examples and utilities.",
+          "tags": [],
+          "group": null,
+          "stars": 20,
+          "last_push": "2021-11-02",
+          "line": 97
+        },
+        {
+          "name": "Deep NeuroEvolution",
+          "url": "https://github.com/giuse/DNE",
+          "description": "Experimental setup based on the machine_learning_workbench towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the OpenAI Gym using PyCall.",
+          "tags": [],
+          "group": null,
+          "stars": 126,
+          "last_push": "2019-12-31",
+          "line": 98
+        },
+        {
+          "name": "rumale",
+          "url": "https://github.com/yoshoku/rumale",
+          "description": "Machine Learninig toolkit in Ruby with wide range of implemented algorithms (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and interfaces similar to Scikit-Learn in Python.",
+          "tags": [],
+          "group": null,
+          "stars": 918,
+          "last_push": "2026-09-14",
+          "line": 99
+        },
+        {
+          "name": "eps",
+          "url": "https://github.com/ankane/eps",
+          "description": "Bayesian Classification and Linear Regression with exports using PMML and an alternative backend using GSL.",
+          "tags": [],
+          "group": null,
+          "stars": 693,
+          "last_push": "2026-06-29",
+          "line": 100
+        },
+        {
+          "name": "ruby-openai",
+          "url": "https://github.com/alexrudall/ruby-openai",
+          "description": "OpenAI API wrapper.",
+          "tags": [],
+          "group": null,
+          "stars": 3223,
+          "last_push": "2026-05-01",
+          "line": 101
+        },
+        {
+          "name": "Instruct",
+          "url": "https://github.com/instruct-rb/instruct",
+          "description": "Inspired by Guidance; weave code, prompts and completions together to instruct LLMs to do what you want.",
+          "tags": [],
+          "group": null,
+          "stars": 49,
+          "last_push": "2025-02-07",
+          "line": 102
+        },
+        {
+          "name": "neural-net-ruby",
+          "url": "https://github.com/gbuesing/neural-net-ruby",
+          "description": "Neural network written in Ruby.",
+          "tags": [],
+          "group": null,
+          "stars": 127,
+          "last_push": "2017-07-02",
+          "line": 105
+        },
+        {
+          "name": "ruby-fann",
+          "url": "https://github.com/tangledpath/ruby-fann",
+          "description": "Ruby bindings to the Fast Artificial Neural Network Library (FANN).",
+          "tags": [],
+          "group": null,
+          "stars": 506,
+          "last_push": "2024-03-25",
+          "line": 106
+        },
+        {
+          "name": "cerebrum",
+          "url": "https://github.com/irfansharif/cerebrum",
+          "description": "Experimental implementation for Artificial Neural Networks in Ruby.",
+          "tags": [],
+          "group": null,
+          "stars": 36,
+          "last_push": "2019-03-03",
+          "line": 107
+        },
+        {
+          "name": "tlearn-rb",
+          "url": "https://github.com/josephwilk/tlearn-rb",
+          "description": "Recurrent Neural Network library for Ruby.",
+          "tags": [],
+          "group": null,
+          "stars": 97,
+          "last_push": "2018-01-04",
+          "line": 108
+        },
+        {
+          "name": "brains",
+          "url": "https://github.com/jedld/brains-jruby",
+          "description": "Feed-forward neural networks for JRuby based on brains.",
+          "tags": [],
+          "group": null,
+          "stars": 60,
+          "last_push": "2017-03-20",
+          "line": 109
+        },
+        {
+          "name": "machine_learning_workbench",
+          "url": "https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/neural_network",
+          "description": "Framework including pure-Ruby implementation of both feed-forward and recurrent neural networks (fully connected). Training available using neuroevolution (Natural Evolution Strategies algorithms).",
+          "tags": [],
+          "group": null,
+          "stars": 20,
+          "last_push": "2021-11-02",
+          "line": 110
+        },
+        {
+          "name": "rann",
+          "url": "https://github.com/mikecmpbll/rann",
+          "description": "Flexible Ruby ANN implementation with backprop (through-time, for recurrent nets), gradient checking, adagrad, and parallel batch execution.",
+          "tags": [],
+          "group": null,
+          "stars": 3,
+          "last_push": "2017-12-11",
+          "line": 111
+        },
+        {
+          "name": "tensor_stream",
+          "url": "https://github.com/jedld/tensor_stream",
+          "description": "Ground-up and standalone reimplementation of TensorFlow for Ruby.",
+          "tags": [],
+          "group": null,
+          "stars": 504,
+          "last_push": "2020-12-26",
+          "line": 115
+        },
+        {
+          "name": "red-chainer",
+          "url": "https://github.com/red-data-tools/red-chainer",
+          "description": "Deep learning framework for Ruby.",
+          "tags": [],
+          "group": null,
+          "stars": 103,
+          "last_push": "2022-01-05",
+          "line": 116
+        },
+        {
+          "name": "tensorflow",
+          "url": "https://github.com/somaticio/tensorflow.rb",
+          "description": "Ruby bindings for TensorFlow.",
+          "tags": [],
+          "group": null,
+          "stars": 832,
+          "last_push": "2022-01-10",
+          "line": 117
+        },
+        {
+          "name": "ruby-dnn",
+          "url": "https://github.com/unagiootoro/ruby-dnn",
+          "description": "Simple deep learning for Ruby.",
+          "tags": [],
+          "group": null,
+          "stars": 46,
+          "last_push": "2023-07-04",
+          "line": 118
+        },
+        {
+          "name": "torch-rb",
+          "url": "https://github.com/ankane/torch-rb",
+          "description": "Ruby bindings for LibTorch - using rice.",
+          "tags": [],
+          "group": null,
+          "stars": 840,
+          "last_push": "2026-09-06",
+          "line": 119
+        },
+        {
+          "name": "mxnet",
+          "url": "https://github.com/mrkn/mxnet.rb",
+          "description": "Ruby bindings for mxnet.",
+          "tags": [],
+          "group": null,
+          "stars": 48,
+          "last_push": "2020-12-22",
+          "line": 120
+        },
+        {
+          "name": "rb-libsvm",
+          "url": "https://github.com/febeling/rb-libsvm",
+          "description": "Support Vector Machines with Ruby and the LIBSVM library. [dep: bundled].",
+          "tags": [],
+          "group": null,
+          "stars": 279,
+          "last_push": "2023-12-07",
+          "line": 124
+        },
+        {
+          "name": "machine_learning_workbench",
+          "url": "https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/optimizer/natural_evolution_strategies",
+          "description": "Framework including pure-Ruby implementations of Natural Evolution Strategy algorithms (black-box optimization), specifically Exponential NES (XNES), Separable NES (sNES), Block-Diagonal NES (BDNES) and more. Applications include neural network search/training (neuroevolution).",
+          "tags": [],
+          "group": null,
+          "stars": 20,
+          "last_push": "2021-11-02",
+          "line": 128
+        },
+        {
+          "name": "simple_ga",
+          "url": "https://github.com/giuse/simple_ga",
+          "description": "Simplest Genetic Algorithms implementation in Ruby.",
+          "tags": [],
+          "group": null,
+          "stars": 11,
+          "last_push": "2016-10-26",
+          "line": 129
+        },
+        {
+          "name": "linnaeus",
+          "url": "https://github.com/djcp/linnaeus",
+          "description": "Redis-backed Bayesian classifier.",
+          "tags": [],
+          "group": null,
+          "stars": 37,
+          "last_push": "2015-12-26",
+          "line": 133
+        },
+        {
+          "name": "naive_bayes",
+          "url": "https://github.com/reddavis/Naive-Bayes",
+          "description": "Simple Naive Bayes classifier.",
+          "tags": [],
+          "group": null,
+          "stars": 49,
+          "last_push": "2012-01-29",
+          "line": 134
+        },
+        {
+          "name": "nbayes",
+          "url": "https://github.com/oasic/nbayes",
+          "description": "Full-featured, Ruby implementation of Naive Bayes.",
+          "tags": [],
+          "group": null,
+          "stars": 155,
+          "last_push": "2024-02-12",
+          "line": 135
+        },
+        {
+          "name": "decisiontree",
+          "url": "https://github.com/igrigorik/decisiontree",
+          "description": "Decision Tree ID3 Algorithm in pure Ruby. post].   [dep: GraphViz |.",
+          "tags": [],
+          "group": null,
+          "stars": 1492,
+          "last_push": "2018-10-31",
+          "line": 139
+        },
+        {
+          "name": "kmeans-clusterer",
+          "url": "https://github.com/gbuesing/kmeans-clusterer",
+          "description": "K-means clustering in Ruby.",
+          "tags": [],
+          "group": null,
+          "stars": 99,
+          "last_push": "2020-09-21",
+          "line": 143
+        },
+        {
+          "name": "k_means",
+          "url": "https://github.com/reddavis/K-Means",
+          "description": "Attempting to build a fast, memory efficient K-Means program.",
+          "tags": [],
+          "group": null,
+          "stars": 113,
+          "last_push": null,
+          "line": 144
+        },
+        {
+          "name": "knn",
+          "url": "https://github.com/reddavis/knn",
+          "description": "Simple K Nearest Neighbour Algorithm.",
+          "tags": [],
+          "group": null,
+          "stars": 37,
+          "last_push": "2020-05-22",
+          "line": 145
+        },
+        {
+          "name": "liblinear-ruby-swig",
+          "url": "https://github.com/tomz/liblinear-ruby-swig",
+          "description": "Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).",
+          "tags": [],
+          "group": null,
+          "stars": 83,
+          "last_push": "2023-06-27",
+          "line": 149
+        },
+        {
+          "name": "liblinear-ruby",
+          "url": "https://github.com/kei500/liblinear-ruby",
+          "description": "Ruby interface to LIBLINEAR using SWIG.",
+          "tags": [],
+          "group": null,
+          "stars": 82,
+          "last_push": "2019-03-29",
+          "line": 150
+        },
+        {
+          "name": "rtimbl",
+          "url": "https://github.com/maspwr/rtimbl",
+          "description": "Memory based learners from the Timbl framework.",
+          "tags": [],
+          "group": null,
+          "stars": 5,
+          "last_push": "2009-10-23",
+          "line": 154
+        },
+        {
+          "name": "lda-ruby",
+          "url": "https://github.com/ealdent/lda-ruby",
+          "description": "Ruby implementation of the LDA (Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.",
+          "tags": [],
+          "group": null,
+          "stars": 134,
+          "last_push": "2026-05-04",
+          "line": 155
+        },
+        {
+          "name": "maxent_string_classifier",
+          "url": "https://github.com/mccraigmccraig/maxent_string_classifier",
+          "description": "JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework.",
+          "tags": [],
+          "group": null,
+          "stars": 9,
+          "last_push": "2009-07-06",
+          "line": 156
+        },
+        {
+          "name": "omnicat",
+          "url": "https://github.com/mustafaturan/omnicat",
+          "description": "Generalized rack framework for text classifications.",
+          "tags": [],
+          "group": null,
+          "stars": 11,
+          "last_push": "2021-01-13",
+          "line": 157
+        },
+        {
+          "name": "omnicat-bayes",
+          "url": "https://github.com/mustafaturan/omnicat-bayes",
+          "description": "Naive Bayes text classification implementation as an OmniCat classifier strategy. [dep: bundled].",
+          "tags": [],
+          "group": null,
+          "stars": 31,
+          "last_push": "2021-01-13",
+          "line": 158
+        },
+        {
+          "name": "xgboost",
+          "url": "https://github.com/PairOnAir/xgboost-ruby",
+          "description": "Ruby bindings for XGBoost. [dep: XGBoost].",
+          "tags": [],
+          "group": null,
+          "stars": 20,
+          "last_push": "2018-04-12",
+          "line": 162
+        },
+        {
+          "name": "xgb",
+          "url": "https://github.com/ankane/xgb",
+          "description": "Ruby bindings for XGBoost. [dep: XGBoost].",
+          "tags": [],
+          "group": null,
+          "stars": 121,
+          "last_push": "2026-09-09",
+          "line": 163
+        },
+        {
+          "name": "lightgbm",
+          "url": "https://github.com/ankane/lightgbm",
+          "description": "Ruby bindings for LightGBM. [dep: LightGBM].",
+          "tags": [],
+          "group": null,
+          "stars": 84,
+          "last_push": "2026-07-18",
+          "line": 164
+        },
+        {
+          "name": "flann",
+          "url": "https://github.com/mariusmuja/flann",
+          "description": "Ruby bindings for the FLANN (Fast Library for Approximate Nearest Neighbors). [flann].",
+          "tags": [],
+          "group": null,
+          "stars": 2376,
+          "last_push": "2024-07-29",
+          "line": 168
+        },
+        {
+          "name": "annoy-rb",
+          "url": "https://github.com/yoshoku/annoy.rb",
+          "description": "Ruby bindings for the Annoy (Approximate Nearest Neighbors Oh Yeah).",
+          "tags": [],
+          "group": null,
+          "stars": 37,
+          "last_push": "2026-09-18",
+          "line": 169
+        },
+        {
+          "name": "hnswlib.rb",
+          "url": "https://github.com/yoshoku/hnswlib.rb",
+          "description": "Ruby bindings for the Hnswlib that implements approximate nearest neighbor search with Hierarchical Navigable Small World graphs.",
+          "tags": [],
+          "group": null,
+          "stars": 15,
+          "last_push": "2026-09-14",
+          "line": 170
+        },
+        {
+          "name": "ngt-ruby",
+          "url": "https://github.com/ankane/ngt-ruby",
+          "description": "Ruby bindings for the NGT (Neighborhood Graph and Tree for Indexing High-dimensional data).",
+          "tags": [],
+          "group": null,
+          "stars": 53,
+          "last_push": "2026-04-02",
+          "line": 171
+        },
+        {
+          "name": "milvus",
+          "url": "https://github.com/andreibondarev/milvus",
+          "description": "Ruby client for Milvus Vector DB.",
+          "tags": [],
+          "group": null,
+          "stars": 33,
+          "last_push": "2025-03-31",
+          "line": 172
+        },
+        {
+          "name": "pinecone",
+          "url": "https://github.com/ScotterC/pinecone",
+          "description": "Ruby client for Pinecone Vector DB.",
+          "tags": [],
+          "group": null,
+          "stars": 67,
+          "last_push": "2026-03-18",
+          "line": 173
+        },
+        {
+          "name": "qdrant-ruby",
+          "url": "https://github.com/andreibondarev/qdrant-ruby",
+          "description": "Ruby wrapper for the Qdrant vector search database API.",
+          "tags": [],
+          "group": null,
+          "stars": 61,
+          "last_push": "2026-08-12",
+          "line": 174
+        },
+        {
+          "name": "weaviate-ruby",
+          "url": "https://github.com/andreibondarev/weaviate-ruby",
+          "description": "Ruby wrapper for the Weaviate vector search database API.",
+          "tags": [],
+          "group": null,
+          "stars": 58,
+          "last_push": "2026-04-17",
+          "line": 175
+        }
+      ]
+    },
+    {
+      "name": "Applications of machine learning",
+      "entries": [
+        {
+          "name": "phashion",
+          "url": "https://github.com/westonplatter/phashion",
+          "description": "Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files. [ImageMagick | libjpeg].",
+          "tags": [],
+          "group": null,
+          "stars": 711,
+          "last_push": "2025-10-23",
+          "line": 179
+        }
+      ]
+    },
+    {
+      "name": "Data structures",
+      "entries": []
+    },
+    {
+      "name": "Data visualization",
+      "entries": []
+    },
+    {
+      "name": "Articles, Posts, Talks, and Presentations",
+      "entries": [
+        {
+          "name": "Justin Bowen",
+          "url": "https://twitter.com/TonsOfFun111",
+          "description": "[video].",
+          "tags": [],
+          "group": "2022",
+          "stars": null,
+          "last_push": null,
+          "line": 196
+        },
+        {
+          "name": "Joseph Emmanuel Dayo",
+          "url": "https://www.linkedin.com/in/jdayo/",
+          "description": "[post].",
+          "tags": [],
+          "group": "2019",
+          "stars": null,
+          "last_push": null,
+          "line": 198
+        },
+        {
+          "name": "@kojix",
+          "url": "https://twitter.com/kojix2dayo",
+          "description": "[post].",
+          "tags": [],
+          "group": "2019",
+          "stars": null,
+          "last_push": null,
+          "line": 199
+        },
+        {
+          "name": "Kenta Murata",
+          "url": "https://twitter.com/mrkn",
+          "description": "& Yusaku Hatanaka  [slides | page].",
+          "tags": [],
+          "group": "2018",
+          "stars": null,
+          "last_push": null,
+          "line": 201
+        },
+        {
+          "name": "Denis Sellu",
+          "url": "https://twitter.com/denis_sellu",
+          "description": "[post].",
+          "tags": [],
+          "group": "2018",
+          "stars": null,
+          "last_push": null,
+          "line": 202
+        },
+        {
+          "name": "Prasun Anand",
+          "url": "https://twitter.com/prasun_anand",
+          "description": "[slides | video | slides | slides].",
+          "tags": [],
+          "group": "2017",
+          "stars": null,
+          "last_push": null,
+          "line": 204
+        },
+        {
+          "name": "Matthew Mongeau",
+          "url": "https://twitter.com/halogenandtoast",
+          "description": "[video | slides].",
+          "tags": [],
+          "group": "2017",
+          "stars": null,
+          "last_push": null,
+          "line": 205
+        },
+        {
+          "name": "Richard Schneeman",
+          "url": "https://twitter.com/schneems",
+          "description": "[video | slides].",
+          "tags": [],
+          "group": "2017",
+          "stars": null,
+          "last_push": null,
+          "line": 206
+        },
+        {
+          "name": "RubyThursday",
+          "url": "https://rubythursday.com/",
+          "description": "[video].",
+          "tags": [],
+          "group": "2017",
+          "stars": null,
+          "last_push": null,
+          "line": 207
+        },
+        {
+          "name": "Jordan Hudgens",
+          "url": "https://twitter.com/jordanhudgens",
+          "description": "[tutorial].",
+          "tags": [],
+          "group": "2016",
+          "stars": null,
+          "last_push": null,
+          "line": 209
+        },
+        {
+          "name": "Geoffrey Litt",
+          "url": "https://twitter.com/geoffreylitt",
+          "description": "[slides].",
+          "tags": [],
+          "group": "2016",
+          "stars": null,
+          "last_push": null,
+          "line": 210
+        },
+        {
+          "name": "Kei Sawada",
+          "url": "https://twitter.com/remore",
+          "description": "[slides].",
+          "tags": [],
+          "group": "2016",
+          "stars": null,
+          "last_push": null,
+          "line": 211
+        },
+        {
+          "name": "Eric Weinstein",
+          "url": "https://twitter.com/ericqweinstein",
+          "description": "[slides | video].",
+          "tags": [],
+          "group": "2016",
+          "stars": null,
+          "last_push": null,
+          "line": 212
+        },
+        {
+          "name": "Brian Sam-Bodden",
+          "url": "https://twitter.com/bsbodden",
+          "description": "[video].",
+          "tags": [],
+          "group": "2016",
+          "stars": null,
+          "last_push": null,
+          "line": 213
+        },
+        {
+          "name": "slides",
+          "url": "https://speakerdeck.com/mrkn/sciruby-machine-learning-current-status-and-future",
+          "description": "SciRuby Machine Learning: Current Status and Future by Kenta Murata. [video: jp](https://www.youtube.com/watch?v=gfQ8XEy7vO4)].",
+          "tags": [],
+          "group": "2016",
+          "stars": null,
+          "last_push": null,
+          "line": 214
+        },
+        {
+          "name": "video",
+          "url": "https://www.youtube.com/watch?v=pYC5mXHUWkc",
+          "description": "Ruby Roundtable: Intro to Tensorflow by RubyThursday.",
+          "tags": [],
+          "group": "2016",
+          "stars": null,
+          "last_push": null,
+          "line": 215
+        },
+        {
+          "name": "Lorenzo Masini",
+          "url": "https://twitter.com/rugginoso",
+          "description": "[post].",
+          "tags": [],
+          "group": "2015",
+          "stars": null,
+          "last_push": null,
+          "line": 217
+        },
+        {
+          "name": "Rick Carlino",
+          "url": "https://github.com/RickCarlino",
+          "description": "[tutorial].",
+          "tags": [],
+          "group": "2015",
+          "stars": null,
+          "last_push": null,
+          "line": 218
+        },
+        {
+          "name": "video",
+          "url": "https://www.youtube.com/watch?v=ppf8m-3uXvU&t=36s",
+          "description": "Test Driven Neural Networks by Matthew Kirk.",
+          "tags": [],
+          "group": "2014",
+          "stars": null,
+          "last_push": null,
+          "line": 220
+        },
+        {
+          "name": "Benjamin Curtis",
+          "url": "https://twitter.com/stympy",
+          "description": "[video | slides].",
+          "tags": [],
+          "group": "2014",
+          "stars": null,
+          "last_push": null,
+          "line": 221
+        },
+        {
+          "name": "John Paul Ashenfelter",
+          "url": "https://twitter.com/johnashenfelter",
+          "description": "[video].",
+          "tags": [],
+          "group": "2014",
+          "stars": null,
+          "last_push": null,
+          "line": 222
+        },
+        {
+          "name": "video",
+          "url": "https://www.youtube.com/watch?v=iSug6CgxWxc",
+          "description": "Sentiment Analysis using Support Vector Machines in Ruby by Matthew Kirk. [code](https://github.com/hexgnu/sentiment_analyzer)].",
+          "tags": [],
+          "group": "2013",
+          "stars": null,
+          "last_push": null,
+          "line": 224
+        },
+        {
+          "name": "Marcel Caraciolo",
+          "url": "https://twitter.com/marcelcaraciolo",
+          "description": "[slides].",
+          "tags": [],
+          "group": "2013",
+          "stars": null,
+          "last_push": null,
+          "line": 225
+        },
+        {
+          "name": "Marc Berszick",
+          "url": "https://www.sitepoint.com/detecting-faces-with-ruby-ffi-in-a-nutshell/",
+          "description": "[post].",
+          "tags": [],
+          "group": "2013",
+          "stars": null,
+          "last_push": null,
+          "line": 226
+        },
+        {
+          "name": "Vasily Vasinov",
+          "url": "https://twitter.com/vasinov",
+          "description": "[tutorial].",
+          "tags": [],
+          "group": "2012",
+          "stars": null,
+          "last_push": null,
+          "line": 228
+        },
+        {
+          "name": "Joseph Wilk",
+          "url": "https://twitter.com/josephwilk",
+          "description": "[post].",
+          "tags": [],
+          "group": "2012",
+          "stars": null,
+          "last_push": null,
+          "line": 229
+        },
+        {
+          "name": "video",
+          "url": "https://www.youtube.com/watch?v=hsZcrlbBg_0",
+          "description": "Recommendation Engines using Machine Learning, and JRuby by Matthew Kirk.",
+          "tags": [],
+          "group": "2012",
+          "stars": null,
+          "last_push": null,
+          "line": 230
+        },
+        {
+          "name": "Andrew Cantino",
+          "url": "https://twitter.com/tectonic",
+          "description": "And Ryan Stout [video].",
+          "tags": [],
+          "group": "2012",
+          "stars": null,
+          "last_push": null,
+          "line": 231
+        },
+        {
+          "name": "Colin Drake",
+          "url": "https://twitter.com/colinfdrake",
+          "description": "[post].",
+          "tags": [],
+          "group": "2011",
+          "stars": null,
+          "last_push": null,
+          "line": 234
+        },
+        {
+          "name": "Rimas Silkaitis",
+          "url": "https://twitter.com/neovintage",
+          "description": "[post].",
+          "tags": [],
+          "group": "2011",
+          "stars": null,
+          "last_push": null,
+          "line": 235
+        },
+        {
+          "name": "Mike Perham",
+          "url": "https://twitter.com/mperham",
+          "description": "[post].",
+          "tags": [],
+          "group": "2010",
+          "stars": null,
+          "last_push": null,
+          "line": 237
+        },
+        {
+          "name": "Ilya Grigorik",
+          "url": "https://twitter.com/igrigorik",
+          "description": "[video].",
+          "tags": [],
+          "group": "2010",
+          "stars": null,
+          "last_push": null,
+          "line": 238
+        },
+        {
+          "name": "post",
+          "url": "https://www.igvita.com/2008/01/07/support-vector-machines-svm-in-ruby/",
+          "description": "Support Vector Machines (SVM) in Ruby by Ilya Grigorik.",
+          "tags": [],
+          "group": "2008",
+          "stars": null,
+          "last_push": null,
+          "line": 242
+        },
+        {
+          "name": "post",
+          "url": "https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/",
+          "description": "Decision Tree Learning in Ruby by Ilya Grigorik.",
+          "tags": [],
+          "group": "2007",
+          "stars": null,
+          "last_push": null,
+          "line": 244
+        }
+      ]
+    },
+    {
+      "name": "Projects and Code Examples",
+      "entries": [
+        {
+          "name": "Wine Clustering",
+          "url": "https://github.com/hexgnu/wine_clustering",
+          "description": "Wine quality estimations clustered with different algorithms.",
+          "tags": [],
+          "group": null,
+          "stars": 0,
+          "last_push": "2014-04-02",
+          "line": 248
+        },
+        {
+          "name": "Handwritten Digits Recognition",
+          "url": "https://github.com/jdrzj/handwritten-digits-recognition",
+          "description": "Using Neural Networks and Ruby.",
+          "tags": [],
+          "group": null,
+          "stars": 6,
+          "last_push": "2021-03-09",
+          "line": 249
+        }
+      ]
+    },
+    {
+      "name": "Heroku buildpacks",
+      "entries": [
+        {
+          "name": "GSL and Ruby buildpack",
+          "url": "https://github.com/tomwolfe/heroku-buildpack-gsl-ruby",
+          "description": "★ 3 stars, last push 2020-08-15.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 253
+        },
+        {
+          "name": "OpenCV and Ruby buildpack",
+          "url": "https://github.com/lilibethdlc/heroku-buildpack-ruby-opencv",
+          "description": "★ 3 stars, last push 2014-04-29.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 254
+        },
+        {
+          "name": "ImageMagick buildpack",
+          "url": "https://github.com/mcollina/heroku-buildpack-imagemagick",
+          "description": "★ 46 stars, last push 2015-01-31.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 255
+        }
+      ]
+    },
+    {
+      "name": "Books, Blogs, Channels",
+      "entries": [
+        {
+          "name": "Kirk, Matthew",
+          "url": "https://twitter.com/mjkirk",
+          "description": "Thoughtful Machine Learning: A Test-Driven Approach. O'Reilly, 2014. [Amazon | code].",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 259
+        },
+        {
+          "name": "Practical Artificial Intelligence",
+          "url": "https://www.practicalai.io/",
+          "description": "Blog about Artificial Intelligence and Machine Learning with tutorials and code samples in Ruby.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 260
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "entries": [
+        {
+          "name": "SciRuby Mailing List",
+          "url": "https://groups.google.com/forum/#!forum/sciruby-dev",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 264
+        },
+        {
+          "name": "SciRuby Slack",
+          "url": "https://sciruby.slack.com/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 265
+        },
+        {
+          "name": "Red Data Gitter",
+          "url": "https://gitter.im/red-data-tools/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 266
+        },
+        {
+          "name": "Reddit",
+          "url": "https://www.reddit.com/r/MachineLearning/search?q=Ruby&restrict_sr=on",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 267
+        },
+        {
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com/search?q=machine+learning+ruby",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 268
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/search?q=Machine%20Learning%20Ruby&src=typd",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 269
+        },
+        {
+          "name": "NonWebRuby",
+          "url": "https://twitter.com/NonWebRuby",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 270
+        },
+        {
+          "name": "Ruby AI Builders Discord",
+          "url": "https://discord.gg/zDyFJFBTGB",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 271
+        },
+        {
+          "name": "X Ruby AI group",
+          "url": "https://twitter.com/i/communities/1709211359039078677",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 272
+        },
+        {
+          "name": "Mastodon Ruby AI and Data group",
+          "url": "https://ruby.social/@Ruby_AI_and_Data@chirp.social",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 273
+        }
+      ]
+    },
+    {
+      "name": "Related Resources",
+      "entries": [
+        {
+          "name": "LightGBM",
+          "url": "https://github.com/microsoft/LightGBM",
+          "description": "★ 18,806 stars, last push 2026-09-23.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 277
+        },
+        {
+          "name": "XGBoost",
+          "url": "https://github.com/dmlc/xgboost",
+          "description": "★ 28,789 stars, last push 2026-09-23.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 278
+        },
+        {
+          "name": "GSL (GNU Scientific Library)",
+          "url": "https://www.gnu.org/software/gsl/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 279
+        },
+        {
+          "name": "OpenCV",
+          "url": "https://opencv.org/",
+          "description": ".Graphviz - .Gnuplot - .X11/XQuartz - .ImageMagick - .R - .Octave - .",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 280
+        },
+        {
+          "name": "scikit-learn algorithm cheatsheet",
+          "url": "https://scikit-learn.org/stable/tutorial/machine_learning_map/",
+          "description": "",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 287
+        },
+        {
+          "name": "Awesome Ruby",
+          "url": "https://github.com/markets/awesome-ruby#natural-language-processing",
+          "description": "Among other awesome items a short list of NLP related projects.",
+          "tags": [],
+          "group": null,
+          "stars": 14158,
+          "last_push": "2026-09-22",
+          "line": 288
+        },
+        {
+          "name": "Ruby NLP",
+          "url": "https://github.com/diasks2/ruby-nlp",
+          "description": "State-of-Art collection of Ruby libraries for NLP.",
+          "tags": [],
+          "group": null,
+          "stars": 1285,
+          "last_push": "2023-03-05",
+          "line": 289
+        },
+        {
+          "name": "Speech and Natural Language Processing",
+          "url": "https://github.com/edobashira/speech-language-processing",
+          "description": "General List of NLP related resources (mostly not for Ruby programmers).",
+          "tags": [],
+          "group": null,
+          "stars": 2225,
+          "last_push": "2019-04-02",
+          "line": 290
+        },
+        {
+          "name": "Scientific Ruby",
+          "url": "http://sciruby.com/",
+          "description": "Linear Algebra, Visualization and Scientific Computing for Ruby.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 291
+        },
+        {
+          "name": "iRuby",
+          "url": "https://github.com/SciRuby/iruby",
+          "description": "Ruby kernel for Jupyter (formerly IPython).",
+          "tags": [],
+          "group": null,
+          "stars": 924,
+          "last_push": "2026-06-30",
+          "line": 292
+        },
+        {
+          "name": "Kiba",
+          "url": "https://github.com/thbar/kiba",
+          "description": "Lightweight ETL (Extract, Transform, Load) pipeline.",
+          "tags": [],
+          "group": null,
+          "stars": 1775,
+          "last_push": "2026-01-10",
+          "line": 293
+        },
+        {
+          "name": "Awesome OCR",
+          "url": "https://github.com/kba/awesome-ocr",
+          "description": "Multitude of OCR (Optical Character Recognition) resources.",
+          "tags": [],
+          "group": null,
+          "stars": 3125,
+          "last_push": "2024-07-06",
+          "line": 294
+        },
+        {
+          "name": "Awesome TensorFlow",
+          "url": "https://github.com/jtoy/awesome-tensorflow",
+          "description": "Machine Learning with TensorFlow libraries.",
+          "tags": [],
+          "group": null,
+          "stars": 17550,
+          "last_push": "2026-02-08",
+          "line": 295
+        },
+        {
+          "name": "rb-gsl",
+          "url": "https://github.com/SciRuby/rb-gsl",
+          "description": "Ruby interface to the GNU Scientific Library.",
+          "tags": [],
+          "group": null,
+          "stars": 104,
+          "last_push": "2024-06-03",
+          "line": 296
+        },
+        {
+          "name": "The Definitive Guide to Ruby's C API",
+          "url": "https://silverhammermba.github.io/emberb/",
+          "description": "Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 297
+        }
+      ]
+    }
+  ]
+}

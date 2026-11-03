@@ -1,0 +1,40 @@
+# Configuration for this awesome list. Everything the engine needs
+# beyond README.md lives here.
+
+name = "Machine Learning With Ruby"
+repo_slug = "machine-learning-with-ruby"
+readme = "README.md"
+badge = "default"
+
+sections = [
+    ":sparkles: Tutorials",
+    "Machine Learning Libraries",
+    "Applications of machine learning",
+    "Articles, Posts, Talks, and Presentations",
+    "Projects and Code Examples",
+    "Heroku buildpacks",
+    "Books, Blogs, Channels",
+    "Community",
+    "Related Resources",
+]
+
+[site]
+# The template has no site generator yet, so this stays off.
+enabled = false
+
+[links]
+archive = "off"
+exclude = []
+allowlist = [
+    # Both hosts answer on http only, so the entries stay as upstream wrote
+    # them instead of failing the scheme check on every run.
+    "http://www.gnuplot.info/",
+    "http://sciruby.com/",
+]
+
+[github]
+stats = true
+max_age_days = 14
+
+[tags]
+# This list carries no tag vocabulary, so every entry opts out of tags.

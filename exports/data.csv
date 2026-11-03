@@ -1,0 +1,135 @@
+section,group,name,url,description,tags,stars,last_push,line
+:sparkles: Tutorials,,Ruby neural networks,https://www.honeybadger.io/blog/ruby-neural-networks/,,,,,69
+:sparkles: Tutorials,,How to implement linear regression in Ruby,https://www.practicalai.io/implementing-linear-regression-using-ruby/,,,,,70
+:sparkles: Tutorials,,How to implement classification using logistic regression in Ruby,https://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/,,,,,71
+:sparkles: Tutorials,,How to implement simple binary classification using a Neural Network in Ruby,https://www.practicalai.io/implementing-simple-classification-using-neural-network-in-ruby/,,,,,72
+:sparkles: Tutorials,,How to implement classification using a SVM in Ruby,https://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/,,,,,73
+:sparkles: Tutorials,,Unsupervised learning using k-means clustering in Ruby,https://www.practicalai.io/unsupervised-learning-using-k-means-clustering-in-ruby/,,,,,74
+:sparkles: Tutorials,,Teaching an AI to play a simple game using Q-Learning in Ruby,https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/,,,,,75
+:sparkles: Tutorials,,Teaching a Neural Network to play a game using Q-Learning in Ruby,https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/,,,,,76
+:sparkles: Tutorials,,Using the Python scikit-learn machine learning library in Ruby using PyCall,https://www.practicalai.io/using-scikit-learn-machine-learning-library-in-ruby-using-pycall/,,,,,77
+:sparkles: Tutorials,,How to evolve neural networks in Ruby using the Machine Learning Workbench,https://github.com/giuse/machine_learning_workbench/blob/master/examples/neuroevolution.rb,"★ 20 stars, last push 2021-11-02.",,,,78
+Machine Learning Libraries,,LangChain.rb,https://github.com/andreibondarev/langchainrb,Build ML/AI-supercharged applications with Ruby's LangChain.,,1999,2026-09-09,87
+Machine Learning Libraries,,weka,https://github.com/paulgoetze/weka-jruby,"JRuby bindings for Weka, different ML algorithms implemented through Weka.",,65,2026-06-24,88
+Machine Learning Libraries,,ai4r,https://github.com/SergioFierens/ai4r,Artificial Intelligence for Ruby.,,722,2025-07-18,89
+Machine Learning Libraries,,classifier-reborn,https://github.com/jekyll/classifier-reborn,General classifier module to allow Bayesian and other types of classifications. [dep: GLS].,,558,2024-05-27,90
+Machine Learning Libraries,,scoruby,https://github.com/asafschers/scoruby,Ruby scoring API for PMML (Predictive Model Markup Language).,,70,2022-10-19,91
+Machine Learning Libraries,,rblearn,https://github.com/himkt/rblearn,Feature Extraction and Crossvalidation library.,,2,2016-08-03,92
+Machine Learning Libraries,,data_modeler,https://github.com/giuse/data_modeler,"Model your data with machine learning. Ample test coverage, examples to start fast, complete documentation. Production ready since 1.0.0.",,,2017-06-28,93
+Machine Learning Libraries,,shogun,https://github.com/shogun-toolbox/shogun,Polyfunctional and mature machine learning toolbox with Ruby bindings.,,3081,2023-12-19,94
+Machine Learning Libraries,,aws-sdk-machinelearning,https://github.com/aws/aws-sdk-ruby,Machine Learning API of the Amazon Web Services.,,3657,2026-09-24,95
+Machine Learning Libraries,,azure_mgmt_machine_learning,https://github.com/Azure/azure-sdk-for-ruby,Machine Learning API of the Microsoft Azure.,,279,,96
+Machine Learning Libraries,,machine_learning_workbench,https://github.com/giuse/machine_learning_workbench,"Growing machine learning framework written in pure Ruby, high performance computing using Numo, CUDA bindings through Cumo. Currently implementating neural networks, evolutionary strategies, vector quantization, and plenty of examples and utilities.",,20,2021-11-02,97
+Machine Learning Libraries,,Deep NeuroEvolution,https://github.com/giuse/DNE,Experimental setup based on the machine_learning_workbench towards searching for deep neural networks (rather than training) using evolutionary algorithms. Applications to the OpenAI Gym using PyCall.,,126,2019-12-31,98
+Machine Learning Libraries,,rumale,https://github.com/yoshoku/rumale,"Machine Learninig toolkit in Ruby with wide range of implemented algorithms (SVM, Logistic Regression, Linear Regression, Random Forest etc.) and interfaces similar to Scikit-Learn in Python.",,918,2026-09-14,99
+Machine Learning Libraries,,eps,https://github.com/ankane/eps,Bayesian Classification and Linear Regression with exports using PMML and an alternative backend using GSL.,,693,2026-06-29,100
+Machine Learning Libraries,,ruby-openai,https://github.com/alexrudall/ruby-openai,OpenAI API wrapper.,,3223,2026-05-01,101
+Machine Learning Libraries,,Instruct,https://github.com/instruct-rb/instruct,"Inspired by Guidance; weave code, prompts and completions together to instruct LLMs to do what you want.",,49,2025-02-07,102
+Machine Learning Libraries,,neural-net-ruby,https://github.com/gbuesing/neural-net-ruby,Neural network written in Ruby.,,127,2017-07-02,105
+Machine Learning Libraries,,ruby-fann,https://github.com/tangledpath/ruby-fann,Ruby bindings to the Fast Artificial Neural Network Library (FANN).,,506,2024-03-25,106
+Machine Learning Libraries,,cerebrum,https://github.com/irfansharif/cerebrum,Experimental implementation for Artificial Neural Networks in Ruby.,,36,2019-03-03,107
+Machine Learning Libraries,,tlearn-rb,https://github.com/josephwilk/tlearn-rb,Recurrent Neural Network library for Ruby.,,97,2018-01-04,108
+Machine Learning Libraries,,brains,https://github.com/jedld/brains-jruby,Feed-forward neural networks for JRuby based on brains.,,60,2017-03-20,109
+Machine Learning Libraries,,machine_learning_workbench,https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/neural_network,Framework including pure-Ruby implementation of both feed-forward and recurrent neural networks (fully connected). Training available using neuroevolution (Natural Evolution Strategies algorithms).,,20,2021-11-02,110
+Machine Learning Libraries,,rann,https://github.com/mikecmpbll/rann,"Flexible Ruby ANN implementation with backprop (through-time, for recurrent nets), gradient checking, adagrad, and parallel batch execution.",,3,2017-12-11,111
+Machine Learning Libraries,,tensor_stream,https://github.com/jedld/tensor_stream,Ground-up and standalone reimplementation of TensorFlow for Ruby.,,504,2020-12-26,115
+Machine Learning Libraries,,red-chainer,https://github.com/red-data-tools/red-chainer,Deep learning framework for Ruby.,,103,2022-01-05,116
+Machine Learning Libraries,,tensorflow,https://github.com/somaticio/tensorflow.rb,Ruby bindings for TensorFlow.,,832,2022-01-10,117
+Machine Learning Libraries,,ruby-dnn,https://github.com/unagiootoro/ruby-dnn,Simple deep learning for Ruby.,,46,2023-07-04,118
+Machine Learning Libraries,,torch-rb,https://github.com/ankane/torch-rb,Ruby bindings for LibTorch - using rice.,,840,2026-09-06,119
+Machine Learning Libraries,,mxnet,https://github.com/mrkn/mxnet.rb,Ruby bindings for mxnet.,,48,2020-12-22,120
+Machine Learning Libraries,,rb-libsvm,https://github.com/febeling/rb-libsvm,Support Vector Machines with Ruby and the LIBSVM library. [dep: bundled].,,279,2023-12-07,124
+Machine Learning Libraries,,machine_learning_workbench,https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/optimizer/natural_evolution_strategies,"Framework including pure-Ruby implementations of Natural Evolution Strategy algorithms (black-box optimization), specifically Exponential NES (XNES), Separable NES (sNES), Block-Diagonal NES (BDNES) and more. Applications include neural network search/training (neuroevolution).",,20,2021-11-02,128
+Machine Learning Libraries,,simple_ga,https://github.com/giuse/simple_ga,Simplest Genetic Algorithms implementation in Ruby.,,11,2016-10-26,129
+Machine Learning Libraries,,linnaeus,https://github.com/djcp/linnaeus,Redis-backed Bayesian classifier.,,37,2015-12-26,133
+Machine Learning Libraries,,naive_bayes,https://github.com/reddavis/Naive-Bayes,Simple Naive Bayes classifier.,,49,2012-01-29,134
+Machine Learning Libraries,,nbayes,https://github.com/oasic/nbayes,"Full-featured, Ruby implementation of Naive Bayes.",,155,2024-02-12,135
+Machine Learning Libraries,,decisiontree,https://github.com/igrigorik/decisiontree,Decision Tree ID3 Algorithm in pure Ruby. post].   [dep: GraphViz |.,,1492,2018-10-31,139
+Machine Learning Libraries,,kmeans-clusterer,https://github.com/gbuesing/kmeans-clusterer,K-means clustering in Ruby.,,99,2020-09-21,143
+Machine Learning Libraries,,k_means,https://github.com/reddavis/K-Means,"Attempting to build a fast, memory efficient K-Means program.",,113,,144
+Machine Learning Libraries,,knn,https://github.com/reddavis/knn,Simple K Nearest Neighbour Algorithm.,,37,2020-05-22,145
+Machine Learning Libraries,,liblinear-ruby-swig,https://github.com/tomz/liblinear-ruby-swig,Ruby interface to LIBLINEAR (much more efficient than LIBSVM for text classification).,,83,2023-06-27,149
+Machine Learning Libraries,,liblinear-ruby,https://github.com/kei500/liblinear-ruby,Ruby interface to LIBLINEAR using SWIG.,,82,2019-03-29,150
+Machine Learning Libraries,,rtimbl,https://github.com/maspwr/rtimbl,Memory based learners from the Timbl framework.,,5,2009-10-23,154
+Machine Learning Libraries,,lda-ruby,https://github.com/ealdent/lda-ruby,Ruby implementation of the LDA (Latent Dirichlet Allocation) for automatic Topic Modelling and Document Clustering.,,134,2026-05-04,155
+Machine Learning Libraries,,maxent_string_classifier,https://github.com/mccraigmccraig/maxent_string_classifier,"JRuby maximum entropy classifier for string data, based on the OpenNLP Maxent framework.",,9,2009-07-06,156
+Machine Learning Libraries,,omnicat,https://github.com/mustafaturan/omnicat,Generalized rack framework for text classifications.,,11,2021-01-13,157
+Machine Learning Libraries,,omnicat-bayes,https://github.com/mustafaturan/omnicat-bayes,Naive Bayes text classification implementation as an OmniCat classifier strategy. [dep: bundled].,,31,2021-01-13,158
+Machine Learning Libraries,,xgboost,https://github.com/PairOnAir/xgboost-ruby,Ruby bindings for XGBoost. [dep: XGBoost].,,20,2018-04-12,162
+Machine Learning Libraries,,xgb,https://github.com/ankane/xgb,Ruby bindings for XGBoost. [dep: XGBoost].,,121,2026-09-09,163
+Machine Learning Libraries,,lightgbm,https://github.com/ankane/lightgbm,Ruby bindings for LightGBM. [dep: LightGBM].,,84,2026-07-18,164
+Machine Learning Libraries,,flann,https://github.com/mariusmuja/flann,Ruby bindings for the FLANN (Fast Library for Approximate Nearest Neighbors). [flann].,,2376,2024-07-29,168
+Machine Learning Libraries,,annoy-rb,https://github.com/yoshoku/annoy.rb,Ruby bindings for the Annoy (Approximate Nearest Neighbors Oh Yeah).,,37,2026-09-18,169
+Machine Learning Libraries,,hnswlib.rb,https://github.com/yoshoku/hnswlib.rb,Ruby bindings for the Hnswlib that implements approximate nearest neighbor search with Hierarchical Navigable Small World graphs.,,15,2026-09-14,170
+Machine Learning Libraries,,ngt-ruby,https://github.com/ankane/ngt-ruby,Ruby bindings for the NGT (Neighborhood Graph and Tree for Indexing High-dimensional data).,,53,2026-04-02,171
+Machine Learning Libraries,,milvus,https://github.com/andreibondarev/milvus,Ruby client for Milvus Vector DB.,,33,2025-03-31,172
+Machine Learning Libraries,,pinecone,https://github.com/ScotterC/pinecone,Ruby client for Pinecone Vector DB.,,67,2026-03-18,173
+Machine Learning Libraries,,qdrant-ruby,https://github.com/andreibondarev/qdrant-ruby,Ruby wrapper for the Qdrant vector search database API.,,61,2026-08-12,174
+Machine Learning Libraries,,weaviate-ruby,https://github.com/andreibondarev/weaviate-ruby,Ruby wrapper for the Weaviate vector search database API.,,58,2026-04-17,175
+Applications of machine learning,,phashion,https://github.com/westonplatter/phashion,"Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files. [ImageMagick | libjpeg].",,711,2025-10-23,179
+"Articles, Posts, Talks, and Presentations",2022,Justin Bowen,https://twitter.com/TonsOfFun111,[video].,,,,196
+"Articles, Posts, Talks, and Presentations",2019,Joseph Emmanuel Dayo,https://www.linkedin.com/in/jdayo/,[post].,,,,198
+"Articles, Posts, Talks, and Presentations",2019,@kojix,https://twitter.com/kojix2dayo,[post].,,,,199
+"Articles, Posts, Talks, and Presentations",2018,Kenta Murata,https://twitter.com/mrkn,& Yusaku Hatanaka  [slides | page].,,,,201
+"Articles, Posts, Talks, and Presentations",2018,Denis Sellu,https://twitter.com/denis_sellu,[post].,,,,202
+"Articles, Posts, Talks, and Presentations",2017,Prasun Anand,https://twitter.com/prasun_anand,[slides | video | slides | slides].,,,,204
+"Articles, Posts, Talks, and Presentations",2017,Matthew Mongeau,https://twitter.com/halogenandtoast,[video | slides].,,,,205
+"Articles, Posts, Talks, and Presentations",2017,Richard Schneeman,https://twitter.com/schneems,[video | slides].,,,,206
+"Articles, Posts, Talks, and Presentations",2017,RubyThursday,https://rubythursday.com/,[video].,,,,207
+"Articles, Posts, Talks, and Presentations",2016,Jordan Hudgens,https://twitter.com/jordanhudgens,[tutorial].,,,,209
+"Articles, Posts, Talks, and Presentations",2016,Geoffrey Litt,https://twitter.com/geoffreylitt,[slides].,,,,210
+"Articles, Posts, Talks, and Presentations",2016,Kei Sawada,https://twitter.com/remore,[slides].,,,,211
+"Articles, Posts, Talks, and Presentations",2016,Eric Weinstein,https://twitter.com/ericqweinstein,[slides | video].,,,,212
+"Articles, Posts, Talks, and Presentations",2016,Brian Sam-Bodden,https://twitter.com/bsbodden,[video].,,,,213
+"Articles, Posts, Talks, and Presentations",2016,slides,https://speakerdeck.com/mrkn/sciruby-machine-learning-current-status-and-future,SciRuby Machine Learning: Current Status and Future by Kenta Murata. [video: jp](https://www.youtube.com/watch?v=gfQ8XEy7vO4)].,,,,214
+"Articles, Posts, Talks, and Presentations",2016,video,https://www.youtube.com/watch?v=pYC5mXHUWkc,Ruby Roundtable: Intro to Tensorflow by RubyThursday.,,,,215
+"Articles, Posts, Talks, and Presentations",2015,Lorenzo Masini,https://twitter.com/rugginoso,[post].,,,,217
+"Articles, Posts, Talks, and Presentations",2015,Rick Carlino,https://github.com/RickCarlino,[tutorial].,,,,218
+"Articles, Posts, Talks, and Presentations",2014,video,https://www.youtube.com/watch?v=ppf8m-3uXvU&t=36s,Test Driven Neural Networks by Matthew Kirk.,,,,220
+"Articles, Posts, Talks, and Presentations",2014,Benjamin Curtis,https://twitter.com/stympy,[video | slides].,,,,221
+"Articles, Posts, Talks, and Presentations",2014,John Paul Ashenfelter,https://twitter.com/johnashenfelter,[video].,,,,222
+"Articles, Posts, Talks, and Presentations",2013,video,https://www.youtube.com/watch?v=iSug6CgxWxc,Sentiment Analysis using Support Vector Machines in Ruby by Matthew Kirk. [code](https://github.com/hexgnu/sentiment_analyzer)].,,,,224
+"Articles, Posts, Talks, and Presentations",2013,Marcel Caraciolo,https://twitter.com/marcelcaraciolo,[slides].,,,,225
+"Articles, Posts, Talks, and Presentations",2013,Marc Berszick,https://www.sitepoint.com/detecting-faces-with-ruby-ffi-in-a-nutshell/,[post].,,,,226
+"Articles, Posts, Talks, and Presentations",2012,Vasily Vasinov,https://twitter.com/vasinov,[tutorial].,,,,228
+"Articles, Posts, Talks, and Presentations",2012,Joseph Wilk,https://twitter.com/josephwilk,[post].,,,,229
+"Articles, Posts, Talks, and Presentations",2012,video,https://www.youtube.com/watch?v=hsZcrlbBg_0,"Recommendation Engines using Machine Learning, and JRuby by Matthew Kirk.",,,,230
+"Articles, Posts, Talks, and Presentations",2012,Andrew Cantino,https://twitter.com/tectonic,And Ryan Stout [video].,,,,231
+"Articles, Posts, Talks, and Presentations",2011,Colin Drake,https://twitter.com/colinfdrake,[post].,,,,234
+"Articles, Posts, Talks, and Presentations",2011,Rimas Silkaitis,https://twitter.com/neovintage,[post].,,,,235
+"Articles, Posts, Talks, and Presentations",2010,Mike Perham,https://twitter.com/mperham,[post].,,,,237
+"Articles, Posts, Talks, and Presentations",2010,Ilya Grigorik,https://twitter.com/igrigorik,[video].,,,,238
+"Articles, Posts, Talks, and Presentations",2008,post,https://www.igvita.com/2008/01/07/support-vector-machines-svm-in-ruby/,Support Vector Machines (SVM) in Ruby by Ilya Grigorik.,,,,242
+"Articles, Posts, Talks, and Presentations",2007,post,https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/,Decision Tree Learning in Ruby by Ilya Grigorik.,,,,244
+Projects and Code Examples,,Wine Clustering,https://github.com/hexgnu/wine_clustering,Wine quality estimations clustered with different algorithms.,,0,2014-04-02,248
+Projects and Code Examples,,Handwritten Digits Recognition,https://github.com/jdrzj/handwritten-digits-recognition,Using Neural Networks and Ruby.,,6,2021-03-09,249
+Heroku buildpacks,,GSL and Ruby buildpack,https://github.com/tomwolfe/heroku-buildpack-gsl-ruby,"★ 3 stars, last push 2020-08-15.",,,,253
+Heroku buildpacks,,OpenCV and Ruby buildpack,https://github.com/lilibethdlc/heroku-buildpack-ruby-opencv,"★ 3 stars, last push 2014-04-29.",,,,254
+Heroku buildpacks,,ImageMagick buildpack,https://github.com/mcollina/heroku-buildpack-imagemagick,"★ 46 stars, last push 2015-01-31.",,,,255
+"Books, Blogs, Channels",,"Kirk, Matthew",https://twitter.com/mjkirk,"Thoughtful Machine Learning: A Test-Driven Approach. O'Reilly, 2014. [Amazon | code].",,,,259
+"Books, Blogs, Channels",,Practical Artificial Intelligence,https://www.practicalai.io/,Blog about Artificial Intelligence and Machine Learning with tutorials and code samples in Ruby.,,,,260
+Community,,SciRuby Mailing List,https://groups.google.com/forum/#!forum/sciruby-dev,,,,,264
+Community,,SciRuby Slack,https://sciruby.slack.com/,,,,,265
+Community,,Red Data Gitter,https://gitter.im/red-data-tools/,,,,,266
+Community,,Reddit,https://www.reddit.com/r/MachineLearning/search?q=Ruby&restrict_sr=on,,,,,267
+Community,,Stack Overflow,https://stackoverflow.com/search?q=machine+learning+ruby,,,,,268
+Community,,Twitter,https://twitter.com/search?q=Machine%20Learning%20Ruby&src=typd,,,,,269
+Community,,NonWebRuby,https://twitter.com/NonWebRuby,,,,,270
+Community,,Ruby AI Builders Discord,https://discord.gg/zDyFJFBTGB,,,,,271
+Community,,X Ruby AI group,https://twitter.com/i/communities/1709211359039078677,,,,,272
+Community,,Mastodon Ruby AI and Data group,https://ruby.social/@Ruby_AI_and_Data@chirp.social,,,,,273
+Related Resources,,LightGBM,https://github.com/microsoft/LightGBM,"★ 18,806 stars, last push 2026-09-23.",,,,277
+Related Resources,,XGBoost,https://github.com/dmlc/xgboost,"★ 28,789 stars, last push 2026-09-23.",,,,278
+Related Resources,,GSL (GNU Scientific Library),https://www.gnu.org/software/gsl/,,,,,279
+Related Resources,,OpenCV,https://opencv.org/,.Graphviz - .Gnuplot - .X11/XQuartz - .ImageMagick - .R - .Octave - .,,,,280
+Related Resources,,scikit-learn algorithm cheatsheet,https://scikit-learn.org/stable/tutorial/machine_learning_map/,,,,,287
+Related Resources,,Awesome Ruby,https://github.com/markets/awesome-ruby#natural-language-processing,Among other awesome items a short list of NLP related projects.,,14158,2026-09-22,288
+Related Resources,,Ruby NLP,https://github.com/diasks2/ruby-nlp,State-of-Art collection of Ruby libraries for NLP.,,1285,2023-03-05,289
+Related Resources,,Speech and Natural Language Processing,https://github.com/edobashira/speech-language-processing,General List of NLP related resources (mostly not for Ruby programmers).,,2225,2019-04-02,290
+Related Resources,,Scientific Ruby,http://sciruby.com/,"Linear Algebra, Visualization and Scientific Computing for Ruby.",,,,291
+Related Resources,,iRuby,https://github.com/SciRuby/iruby,Ruby kernel for Jupyter (formerly IPython).,,924,2026-06-30,292
+Related Resources,,Kiba,https://github.com/thbar/kiba,"Lightweight ETL (Extract, Transform, Load) pipeline.",,1775,2026-01-10,293
+Related Resources,,Awesome OCR,https://github.com/kba/awesome-ocr,Multitude of OCR (Optical Character Recognition) resources.,,3125,2024-07-06,294
+Related Resources,,Awesome TensorFlow,https://github.com/jtoy/awesome-tensorflow,Machine Learning with TensorFlow libraries.,,17550,2026-02-08,295
+Related Resources,,rb-gsl,https://github.com/SciRuby/rb-gsl,Ruby interface to the GNU Scientific Library.,,104,2024-06-03,296
+Related Resources,,The Definitive Guide to Ruby's C API,https://silverhammermba.github.io/emberb/,Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.,,,,297

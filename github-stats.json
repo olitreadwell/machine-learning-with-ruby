@@ -1,0 +1,360 @@
+{
+  "generated_at": "2026-09-24",
+  "repos": {
+    "Azure/azure-sdk-for-ruby": {
+      "stars": 279,
+      "pushed_at": "2023-01-10",
+      "archived": true
+    },
+    "PairOnAir/xgboost-ruby": {
+      "stars": 20,
+      "pushed_at": "2018-04-12",
+      "archived": false
+    },
+    "SciRuby/iruby": {
+      "stars": 924,
+      "pushed_at": "2026-06-30",
+      "archived": false
+    },
+    "SciRuby/rb-gsl": {
+      "stars": 104,
+      "pushed_at": "2024-06-03",
+      "archived": false
+    },
+    "ScotterC/pinecone": {
+      "stars": 67,
+      "pushed_at": "2026-03-18",
+      "archived": false
+    },
+    "SergioFierens/ai4r": {
+      "stars": 722,
+      "pushed_at": "2025-07-18",
+      "archived": false
+    },
+    "alexrudall/ruby-openai": {
+      "stars": 3223,
+      "pushed_at": "2026-05-01",
+      "archived": false
+    },
+    "andreibondarev/langchainrb": {
+      "stars": 1999,
+      "pushed_at": "2026-09-09",
+      "archived": false
+    },
+    "andreibondarev/milvus": {
+      "stars": 33,
+      "pushed_at": "2025-03-31",
+      "archived": false
+    },
+    "andreibondarev/qdrant-ruby": {
+      "stars": 61,
+      "pushed_at": "2026-08-12",
+      "archived": false
+    },
+    "andreibondarev/weaviate-ruby": {
+      "stars": 58,
+      "pushed_at": "2026-04-17",
+      "archived": false
+    },
+    "ankane/eps": {
+      "stars": 693,
+      "pushed_at": "2026-06-29",
+      "archived": false
+    },
+    "ankane/lightgbm": {
+      "stars": 84,
+      "pushed_at": "2026-07-18",
+      "archived": false
+    },
+    "ankane/ngt-ruby": {
+      "stars": 53,
+      "pushed_at": "2026-04-02",
+      "archived": false
+    },
+    "ankane/torch-rb": {
+      "stars": 840,
+      "pushed_at": "2026-09-06",
+      "archived": false
+    },
+    "ankane/xgb": {
+      "stars": 121,
+      "pushed_at": "2026-09-09",
+      "archived": false
+    },
+    "asafschers/scoruby": {
+      "stars": 70,
+      "pushed_at": "2022-10-19",
+      "archived": false
+    },
+    "aws/aws-sdk-ruby": {
+      "stars": 3657,
+      "pushed_at": "2026-09-24",
+      "archived": false
+    },
+    "diasks2/ruby-nlp": {
+      "stars": 1285,
+      "pushed_at": "2023-03-05",
+      "archived": false
+    },
+    "djcp/linnaeus": {
+      "stars": 37,
+      "pushed_at": "2015-12-26",
+      "archived": false
+    },
+    "dmlc/xgboost": {
+      "stars": 28789,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "ealdent/lda-ruby": {
+      "stars": 134,
+      "pushed_at": "2026-05-04",
+      "archived": false
+    },
+    "edobashira/speech-language-processing": {
+      "stars": 2225,
+      "pushed_at": "2019-04-02",
+      "archived": false
+    },
+    "febeling/rb-libsvm": {
+      "stars": 279,
+      "pushed_at": "2023-12-07",
+      "archived": false
+    },
+    "gbuesing/kmeans-clusterer": {
+      "stars": 99,
+      "pushed_at": "2020-09-21",
+      "archived": false
+    },
+    "gbuesing/neural-net-ruby": {
+      "stars": 127,
+      "pushed_at": "2017-07-02",
+      "archived": false
+    },
+    "giuse/DNE": {
+      "stars": 126,
+      "pushed_at": "2019-12-31",
+      "archived": false
+    },
+    "giuse/data_modeler": {
+      "stars": 1,
+      "pushed_at": "2017-06-28",
+      "archived": false
+    },
+    "giuse/machine_learning_workbench": {
+      "stars": 20,
+      "pushed_at": "2021-11-02",
+      "archived": false
+    },
+    "giuse/simple_ga": {
+      "stars": 11,
+      "pushed_at": "2016-10-26",
+      "archived": false
+    },
+    "hexgnu/wine_clustering": {
+      "stars": 0,
+      "pushed_at": "2014-04-02",
+      "archived": false
+    },
+    "himkt/rblearn": {
+      "stars": 2,
+      "pushed_at": "2016-08-03",
+      "archived": false
+    },
+    "igrigorik/decisiontree": {
+      "stars": 1492,
+      "pushed_at": "2018-10-31",
+      "archived": false
+    },
+    "instruct-rb/instruct": {
+      "stars": 49,
+      "pushed_at": "2025-02-07",
+      "archived": false
+    },
+    "irfansharif/cerebrum": {
+      "stars": 36,
+      "pushed_at": "2019-03-03",
+      "archived": false
+    },
+    "jdrzj/handwritten-digits-recognition": {
+      "stars": 6,
+      "pushed_at": "2021-03-09",
+      "archived": false
+    },
+    "jedld/brains-jruby": {
+      "stars": 60,
+      "pushed_at": "2017-03-20",
+      "archived": false
+    },
+    "jedld/tensor_stream": {
+      "stars": 504,
+      "pushed_at": "2020-12-26",
+      "archived": false
+    },
+    "jekyll/classifier-reborn": {
+      "stars": 558,
+      "pushed_at": "2024-05-27",
+      "archived": false
+    },
+    "josephwilk/tlearn-rb": {
+      "stars": 97,
+      "pushed_at": "2018-01-04",
+      "archived": false
+    },
+    "jtoy/awesome-tensorflow": {
+      "stars": 17550,
+      "pushed_at": "2026-02-08",
+      "archived": false
+    },
+    "kba/awesome-ocr": {
+      "stars": 3125,
+      "pushed_at": "2024-07-06",
+      "archived": false
+    },
+    "kei500/liblinear-ruby": {
+      "stars": 82,
+      "pushed_at": "2019-03-29",
+      "archived": false
+    },
+    "lilibethdlc/heroku-buildpack-ruby-opencv": {
+      "stars": 3,
+      "pushed_at": "2014-04-29",
+      "archived": false
+    },
+    "mariusmuja/flann": {
+      "stars": 2376,
+      "pushed_at": "2024-07-29",
+      "archived": false
+    },
+    "markets/awesome-ruby": {
+      "stars": 14158,
+      "pushed_at": "2026-09-22",
+      "archived": false
+    },
+    "maspwr/rtimbl": {
+      "stars": 5,
+      "pushed_at": "2009-10-23",
+      "archived": false
+    },
+    "mccraigmccraig/maxent_string_classifier": {
+      "stars": 9,
+      "pushed_at": "2009-07-06",
+      "archived": false
+    },
+    "mcollina/heroku-buildpack-imagemagick": {
+      "stars": 46,
+      "pushed_at": "2015-01-31",
+      "archived": false
+    },
+    "microsoft/LightGBM": {
+      "stars": 18806,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "mikecmpbll/rann": {
+      "stars": 3,
+      "pushed_at": "2017-12-11",
+      "archived": false
+    },
+    "mrkn/mxnet.rb": {
+      "stars": 48,
+      "pushed_at": "2020-12-22",
+      "archived": false
+    },
+    "mustafaturan/omnicat": {
+      "stars": 11,
+      "pushed_at": "2021-01-13",
+      "archived": false
+    },
+    "mustafaturan/omnicat-bayes": {
+      "stars": 31,
+      "pushed_at": "2021-01-13",
+      "archived": false
+    },
+    "oasic/nbayes": {
+      "stars": 155,
+      "pushed_at": "2024-02-12",
+      "archived": false
+    },
+    "paulgoetze/weka-jruby": {
+      "stars": 65,
+      "pushed_at": "2026-06-24",
+      "archived": false
+    },
+    "red-data-tools/red-chainer": {
+      "stars": 103,
+      "pushed_at": "2022-01-05",
+      "archived": false
+    },
+    "reddavis/K-Means": {
+      "stars": 113,
+      "pushed_at": "2016-06-16",
+      "archived": true
+    },
+    "reddavis/Naive-Bayes": {
+      "stars": 49,
+      "pushed_at": "2012-01-29",
+      "archived": false
+    },
+    "reddavis/knn": {
+      "stars": 37,
+      "pushed_at": "2020-05-22",
+      "archived": false
+    },
+    "shogun-toolbox/shogun": {
+      "stars": 3081,
+      "pushed_at": "2023-12-19",
+      "archived": false
+    },
+    "somaticio/tensorflow.rb": {
+      "stars": 832,
+      "pushed_at": "2022-01-10",
+      "archived": false
+    },
+    "tangledpath/ruby-fann": {
+      "stars": 506,
+      "pushed_at": "2024-03-25",
+      "archived": false
+    },
+    "thbar/kiba": {
+      "stars": 1775,
+      "pushed_at": "2026-01-10",
+      "archived": false
+    },
+    "tomwolfe/heroku-buildpack-gsl-ruby": {
+      "stars": 3,
+      "pushed_at": "2020-08-15",
+      "archived": false
+    },
+    "tomz/liblinear-ruby-swig": {
+      "stars": 83,
+      "pushed_at": "2023-06-27",
+      "archived": false
+    },
+    "unagiootoro/ruby-dnn": {
+      "stars": 46,
+      "pushed_at": "2023-07-04",
+      "archived": false
+    },
+    "westonplatter/phashion": {
+      "stars": 711,
+      "pushed_at": "2025-10-23",
+      "archived": false
+    },
+    "yoshoku/annoy.rb": {
+      "stars": 37,
+      "pushed_at": "2026-09-18",
+      "archived": false
+    },
+    "yoshoku/hnswlib.rb": {
+      "stars": 15,
+      "pushed_at": "2026-09-14",
+      "archived": false
+    },
+    "yoshoku/rumale": {
+      "stars": 918,
+      "pushed_at": "2026-09-14",
+      "archived": false
+    }
+  }
+}
